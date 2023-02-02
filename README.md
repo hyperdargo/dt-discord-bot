@@ -74,6 +74,7 @@ node src/index.js
 ```
 <br>
 .env example
+<br>
 ```DISCORD_TOKEN= [Put Your Discord Bot Token]
 MONGO_TOKEN=[Put Mongo Token If You Don't Have Join DT Empire To Get One]
 GIPHY_TOKEN=[Put GIPHY TOKEN HERE!]
@@ -93,7 +94,7 @@ OWNER_ID=[Your DIscord ID]```
 [![DiscordBanner](https://invidget.switchblade.xyz/sjqChNU5Gr)](https://discord.gg/sjqChNU5Gr)
 [Support Server](https://discord.gg/sjqChNU5Gr) - Discord-Bot's Support Server Invite
 <br>
-## <img src="https://cdn.discordapp.com/emojis/1009754836314628146.gif" width="25px" height="25px">》Requirements
+## <img src="https://cdn.discordapp.com/emojis/1009754836314628146.gif" width="25px" height="25px">》Requirements<br>
 - NodeJs v17+
 - Java v13 for lavalink server.
 - Discord Token. Get it from [Discord Developers Portal](https://discord.com/developers/applications)
